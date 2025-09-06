@@ -1,3 +1,4 @@
 streamlit
+pyyaml
 huggingface_hub
 python-dotenv
