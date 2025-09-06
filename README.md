@@ -3,10 +3,12 @@
 Govt Schemes Assistant is a **Streamlit-based AI assistant** that helps users query and understand **Indian Government Schemes** in both **Telugu and English**.  
 It is powered by **OpenAI’s GPT models** to provide accurate and easy-to-understand explanations.
 
+**Problem It Solves**
+Many citizens are unaware of government schemes or find it difficult to navigate official portals. This assistant provides **quick, accurate, and easy-to-understand information**, bridging the gap between government resources and the public.  
 ---
 
 ## 🌟 Features
-- 🔍 Search and query Indian Government schemes.
+- 🔍 Search and query Indian Government schemes ,Provides details about eligibility, benefits,  and application process .
 - 🌐 Bilingual support — **Telugu** and **English**.
 - ⚡ Simple and interactive **Streamlit UI**.
 - 🔑 Secure API key handling via `.env` file.
