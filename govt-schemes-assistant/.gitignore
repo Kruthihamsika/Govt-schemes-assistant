@@ -1,6 +1,12 @@
-# Ignore virtual environment
-.venv/
-
-# Python cache files
+# Python
 __pycache__/
 *.pyc
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Others
+.DS_Store
+*.log
